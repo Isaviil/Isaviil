@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy Isaac y este es mi Github 👋</h1>
+<h1 align="center">Hola! Soy Isaac y bienvenido mi Github 👋</h1>
 
 <p align="center">
 Soy un estudiante en los últimos ciclos de Computación e Informática con interés en el desarrollo fullstack.
