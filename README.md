@@ -1,5 +1,11 @@
-## Hi there 👋
+Hola! Soy Isaac y este es mi Github
 
+Soy un estudiante en los últimos ciclos de Computación e Informática con interés en el desarrollo fullstack.
+
+- 🌱 Actualmente, estoy aprendiendo Typescript por mi cuenta.
+- 💬 Sobre mí? Disfruto programar. Cuando practico backend, siento que el tiempo pasa muy rápido.
+- 📫 Contacto: isavil.94s@gmail.com
+- ⚡ Dato  curioso: me compré una pantalla más grande porque a mi gata, a veces, le gusta obstruir mi visión.
 <!--
 **Isaviil/Isaviil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
