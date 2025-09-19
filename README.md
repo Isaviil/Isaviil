@@ -1,6 +1,8 @@
-Hola! Soy Isaac y este es mi Github
+<h1 align="center">Hola! Soy Isaac y este es mi Github 👋</h1>
 
+<p align="center">
 Soy un estudiante en los últimos ciclos de Computación e Informática con interés en el desarrollo fullstack.
+</p>
 
 - 🌱 Actualmente, estoy aprendiendo Typescript por mi cuenta.
 - 💬 Sobre mí? Disfruto programar. Cuando practico backend, siento que el tiempo pasa muy rápido.
