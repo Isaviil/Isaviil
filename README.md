@@ -4,8 +4,8 @@
 Soy un estudiante en los últimos ciclos de Computación e Informática con interés en el desarrollo fullstack.
 </p>
 
-- 🌱 Actualmente, estoy aprendiendo Typescript por mi cuenta.
-- 💬 Sobre mí? Disfruto programar. Cuando practico backend, siento que el tiempo pasa muy rápido.
+- 🌱 Actualmente, estoy reforzando mis habilidades con TypeScript.
+- 💬 Sobre mí? Disfruto programar y tengo mucho interés en el backend.
 - 📫 Contacto: isavil.94s@gmail.com
 - ⚡ Dato  curioso: me compré una pantalla más grande porque a mi gata, a veces, le gusta obstruir mi visión.
 <!--
