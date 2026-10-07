@@ -1,23 +1,23 @@
-<h1 align="center">Hola! Soy Isaac y bienvenido mi Github 👋</h1>
+<h1 align="center">¡Hola! Soy Isaac 👋</h1>
 
 <p align="center">
-Soy un estudiante en los últimos ciclos de Computación e Informática con interés en el desarrollo fullstack.
+Desarrollador Frontend enfocado en la construcción de aplicaciones web dinámicas y escalables con React, TypeScript y Next.js.
 </p>
 
-- 🌱 Actualmente, estoy reforzando mis habilidades con TypeScript.
-- 💬 Sobre mí? Disfruto programar y tengo mucho interés en el backend.
-- 📫 Contacto: isavil.94s@gmail.com
-<!--
-**Isaviil/Isaviil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Actualmente trabajo como Desarrollador Frontend.
 
-Here are some ideas to get you started:
+🌱 Actualmente desarrollo "Axon", un sistema web de gestión comercial e inventarios como proyecto de titulación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Experiencia con React, TypeScript, Next.js, Prisma, PostgreSQL, REST APIs y SCSS.
+
+📫 Contacto: isavil.94s@gmail.com
+
+Tecnologías
+
+Lenguajes: JavaScript, TypeScript, HTML, CSS, SQL, C#, Java
+
+Frontend: React, Next.js, SCSS / SASS
+
+Backend y datos: Node.js, ASP.NET Core, Prisma, PostgreSQL, Supabase
+
+Herramientas: Git, GitHub, REST APIs, NextAuth
